@@ -2,8 +2,6 @@
 
 Full stack software developer. Dedicated to producing quality content for the open source community.
 
-Have a look at my work: [Let's go see Joel's portfolio!][portfolio]
-
 <br>
 
 <p align='center'>
