@@ -1,6 +1,6 @@
 # Joel Lefkowitz
 
-Full stack software developer. Dedicated to producing quality content for the open source community.
+Dedicated to producing quality content for the open source community.
 
 <br>
 
