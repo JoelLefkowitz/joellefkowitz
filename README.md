@@ -1,6 +1,8 @@
 # Joel Lefkowitz
 
-Dedicated to producing quality content for the open source community.
+I am passionate about functional programming and finding elegant solutions to real world problems.
+
+Presently I am invested in proffesional development and becoming a more proactive team player. I am devoted to producing quality tooling for the open source community.
 
 <br>
 
