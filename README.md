@@ -16,18 +16,8 @@ I am passionate about functional programming and creating quality tooling for th
 
 ## Contact
 
-<a style="text-decoration: none" href="https://github.com/JoelLefkowitz">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?&logo=github&logoColor=white" />
-</a>
-<a style="text-decoration: none" href="https://linkedin.com/in/joel-lefkowitz">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?&logo=linkedin&logoColor=white" />
-</a>
-<a style="text-decoration: none" href="https://stackoverflow.com/users/16726440/joel-lefkowitz">
-  <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-000000?&logo=stackoverflow&logoColor=white" />
-</a>
-<a style="text-decoration: none" href="https://codepen.io/joellefkowitz">
-  <img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?&logo=codepen&logoColor=white" />
-</a>
-<a style="text-decoration: none" href="mailto:joellefkowitz@hotmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-000000?&logo=maildotru&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/JoelLefkowitz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-lefkowitz)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-000000?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16726440/joel-lefkowitz)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/joellefkowitz)
+[![Email](https://img.shields.io/badge/Email-000000?logo=maildotru&logoColor=white)](mailto:joellefkowitz@hotmail.com)
