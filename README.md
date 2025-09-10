@@ -4,7 +4,7 @@ I am passionate about functional programming and creating quality tooling for th
 
 <div align="center">
   <a href="https://joellefkowitz.co.uk">
-    <img src="https://joellefkowitz.co.uk/images/open-graph-512x256.png">
+    <img src="https://joellefkowitz.co.uk/favicons/open-graph-512x256.png">
   </a>
 </div>
 
